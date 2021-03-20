@@ -1,0 +1,9 @@
+Array
+(
+    [4 Fundations of Mindfulness] => 1
+    [4 Right Efforts] => 1
+    [5 Faculties] => 1
+    [5 Qualities] => 1
+    [7 Factors of Enlightenment] => 1
+    [8-Fold Noble Path ] => 1
+)

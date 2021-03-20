@@ -1,0 +1,22 @@
+<?php
+    $exclude = array(
+                    'map.php',
+                    'index.php',
+                    'nav.php',
+                    'navOld.php',
+                    'navC.php',
+                    'navChildren.php',
+                    'navParent.php',
+                    'exclude.php',
+                    'test.php',
+                    'nav0.php',
+                    'nav0Old.php',
+                    'head.php',
+                    'matrix.php',
+                    'matrixOld.php',
+                    'matrix2.php',
+                    'matrix3.php',
+                    'matrix4.php',
+                    'matrix5.php'
+                );
+?>
